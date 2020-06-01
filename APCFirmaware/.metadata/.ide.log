@@ -1,0 +1,422 @@
+2020-04-01 21:21:00,351 [INFO] Activator:176 - 
+
+
+2020-04-01 21:21:00,357 [INFO] Activator:177 - !SESSION log4j initialized
+2020-04-01 21:21:29,043 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-04-01 21:21:29,129 [INFO] DbMcusXml:72 - Set database path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//mcu/
+2020-04-01 21:21:29,152 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/boardmanager/
+2020-04-01 21:21:29,153 [INFO] DbMcus:235 - Set plugin images path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/
+2020-04-01 21:21:29,153 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/
+2020-04-01 21:21:29,192 [INFO] DbMcusAds:85 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:29,195 [INFO] DbMcusDocs:108 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:29,209 [INFO] DbMcusJson:61 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:29,216 [INFO] DbBoardsDocs:97 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:29,226 [INFO] DbBoardsJson:51 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:29,583 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-01 21:21:30,231 [INFO] RulesReader:52 - Compatibility file has been processed (208 Rules)
+2020-04-01 21:21:30,696 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-04-01 21:21:30,697 [INFO] DbMcusXml:72 - Set database path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//mcu/
+2020-04-01 21:21:30,697 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/boardmanager/
+2020-04-01 21:21:30,698 [INFO] DbMcus:235 - Set plugin images path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/
+2020-04-01 21:21:30,702 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/
+2020-04-01 21:21:30,716 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,716 [INFO] DbMcusAds:85 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:30,717 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,718 [INFO] DbMcusDocs:108 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:30,719 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,720 [INFO] DbMcusJson:61 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:30,721 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,721 [INFO] DbBoardsDocs:97 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:30,722 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,722 [INFO] DbBoardsJson:51 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:30,723 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,724 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:30,725 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-01 21:21:31,000 [INFO] MainPanel:181 - HeapMemory: 304087040
+2020-04-01 21:21:31,616 [INFO] DbMcusXml:72 - Set database path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//mcu/
+2020-04-01 21:21:31,617 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/boardmanager/
+2020-04-01 21:21:31,618 [INFO] DbMcus:235 - Set plugin images path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/
+2020-04-01 21:21:31,619 [INFO] DbBoards:232 - Set plugin images path to: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/
+2020-04-01 21:21:31,624 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,625 [INFO] DbMcusAds:85 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:31,626 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,626 [INFO] DbMcusDocs:108 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:31,627 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,628 [INFO] DbMcusJson:61 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:31,628 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,629 [INFO] DbBoardsDocs:97 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:31,630 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,630 [INFO] DbBoardsJson:51 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/
+2020-04-01 21:21:31,631 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,632 [WARN] DbFile:36 - Overriding database path with different value: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/ => /home/vitlaiy2034/.stmcufinder/plugins/mcufinder
+2020-04-01 21:21:31,632 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-04-01 21:21:31,729 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-04-01 21:21:31,749 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, tutovideos]
+2020-04-01 21:21:31,760 [INFO] PluginManage:292 - Check plugin analytics
+2020-04-01 21:21:31,776 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-04-01 21:21:31,780 [INFO] PluginManage:292 - Check plugin clock
+2020-04-01 21:21:31,824 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-04-01 21:21:31,824 [INFO] PluginManage:292 - Check plugin ddr
+2020-04-01 21:21:31,833 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-04-01 21:21:31,834 [INFO] PluginManage:292 - Check plugin filemanager
+2020-04-01 21:21:32,392 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-04-01 21:21:32,392 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-04-01 21:21:32,429 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-04-01 21:21:32,429 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-04-01 21:21:32,493 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-04-01 21:21:32,494 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-04-01 21:21:32,670 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-04-01 21:21:32,671 [INFO] PluginManage:292 - Check plugin power
+2020-04-01 21:21:32,709 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-04-01 21:21:32,710 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-04-01 21:21:32,785 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-04-01 21:21:32,793 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-04-01 21:21:33,121 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/vitlaiy2034/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 159 ms. number of Sw pack : 15
+2020-04-01 21:21:33,218 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-04-01 21:21:33,219 [INFO] PluginManage:292 - Check plugin tools
+2020-04-01 21:21:33,232 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-04-01 21:21:33,233 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-04-01 21:21:33,235 [INFO] PluginManage:347 - Ignore plugin tutovideos (category:base)
+2020-04-01 21:21:33,236 [INFO] PluginManage:292 - Check plugin updater
+2020-04-01 21:21:33,286 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-04-01 21:21:33,288 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-04-01 21:21:34,872 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-04-01 21:21:35,106 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,107 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-04-01 21:21:35,111 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,112 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-04-01 21:21:35,119 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,120 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-04-01 21:21:35,125 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,128 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-04-01 21:21:35,192 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,195 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-04-01 21:21:35,208 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,209 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-04-01 21:21:35,224 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,225 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-04-01 21:21:35,246 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,247 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-04-01 21:21:35,258 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,259 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-04-01 21:21:35,270 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,271 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-04-01 21:21:35,286 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,291 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-04-01 21:21:35,299 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,299 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-04-01 21:21:35,305 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,306 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-04-01 21:21:35,312 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,314 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-04-01 21:21:35,334 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,335 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-04-01 21:21:35,354 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,355 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-04-01 21:21:35,374 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,375 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-04-01 21:21:35,381 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,382 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-04-01 21:21:35,390 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,392 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-04-01 21:21:35,415 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,416 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-04-01 21:21:35,424 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,424 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-04-01 21:21:35,442 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,443 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-04-01 21:21:35,461 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,470 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-04-01 21:21:35,480 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,481 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-04-01 21:21:35,489 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,490 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-04-01 21:21:35,495 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,496 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-04-01 21:21:35,503 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,504 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-04-01 21:21:35,511 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,512 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-04-01 21:21:35,518 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,519 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-04-01 21:21:35,528 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,529 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-04-01 21:21:35,536 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,537 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-04-01 21:21:35,546 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,548 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-04-01 21:21:35,553 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,554 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-04-01 21:21:35,562 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,562 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-04-01 21:21:35,576 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,577 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-04-01 21:21:35,586 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,587 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-04-01 21:21:35,596 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-04-01 21:21:35,597 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-04-01 21:21:36,635 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-04-01 21:21:36,638 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-04-01 21:21:37,166 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-01 21:21:37,802 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-01 21:21:37,835 [INFO] PinOutPanel:1420 - setPackage(No Configuration,No Configuration)
+2020-04-01 21:21:37,837 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-04-01 21:21:37,866 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-04-01 21:21:37,869 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.3.0.202002181050/tools/bin
+2020-04-01 21:21:37,904 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.3.0.202002181050/tools/bin/STM32_Programmer_CLI -l
+2020-04-01 21:21:38,105 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.linux64_1.3.0.202002181050/tools/bin
+2020-04-01 21:21:38,133 [INFO] Updater:886 - Updater Version found : 5.6.0
+2020-04-01 21:21:38,203 [INFO] ApplicationProperties:181 - Using Application install path: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639
+2020-04-01 21:21:38,628 [INFO] MainUpdater:2230 - connection check result : 10
+2020-04-01 21:21:38,629 [INFO] MainUpdater:2874 - Updater definition file requires update
+2020-04-01 21:21:38,631 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-04-01 21:21:38,632 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.60
+2020-04-01 21:21:38,677 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2020-04-01 21:21:38,916 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2020-04-01 21:21:38,916 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-04-01 21:21:39,175 [WARN] MainUpdater:1073 - Updater busy. Cannot search thirdparties
+2020-04-01 21:21:40,126 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2020-04-01 21:21:40,229 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2020-04-01 21:21:40,757 [INFO] LoadServerUpdatesThread:301 - End of LoadServerUpdate Thread
+2020-04-01 21:21:40,970 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-04-01 21:21:41,076 [INFO] MainUpdater:2230 - connection check result : 10
+2020-04-01 21:21:41,079 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-04-01 21:21:41,745 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-04-01 21:21:41,843 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-04-01 21:21:41,872 [INFO] DbMcusXml:110 - Load MCU database from /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//mcu/families.xml
+2020-04-01 21:21:42,285 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/vitlaiy2034/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-01 21:21:42,853 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/vitlaiy2034/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 115 ms. number of Sw pack : 16
+2020-04-01 21:21:42,876 [INFO] Engine:366 - softwarePackList size : 16
+2020-04-01 21:21:42,926 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-AI have been done, and update is requested
+2020-04-01 21:21:43,013 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-04-01 21:21:43,097 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE2 have been done, and update is requested
+2020-04-01 21:21:43,230 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-04-01 21:21:44,596 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-04-01 21:21:44,666 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-04-01 21:21:44,730 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-04-01 21:21:44,767 [INFO] Engine:382 - compute dependency for SwPack X-CUBE-TOUCHGFX have been done, no update is requested
+2020-04-01 21:21:44,831 [INFO] Engine:378 - compute dependency for SwPack CMSIS have been done, and update is requested
+2020-04-01 21:21:44,928 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-04-01 21:21:44,978 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-04-01 21:21:47,349 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-04-01 21:21:47,465 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-04-01 21:21:47,547 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-04-01 21:21:47,697 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-ALGOBUILD have been done, and update is requested
+2020-04-01 21:21:47,770 [INFO] Engine:382 - compute dependency for SwPack FreeRTOS have been done, no update is requested
+2020-04-01 21:21:48,414 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997936885, 1576997936886]
+2020-04-01 21:21:48,415 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0 CMSIS id : 1576997936131
+2020-04-01 21:21:48,432 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997936885, 1576997936886]
+2020-04-01 21:21:48,432 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0 CMSIS id : 1576997936133
+2020-04-01 21:21:48,433 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939117, 1576997936886]
+2020-04-01 21:21:48,433 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0+ CMSIS id : 1576997936135
+2020-04-01 21:21:48,434 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939117, 1576997936886]
+2020-04-01 21:21:48,434 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM0+ CMSIS id : 1576997936137
+2020-04-01 21:21:48,435 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997937699, 1576997936886]
+2020-04-01 21:21:48,448 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM1 CMSIS id : 1576997936139
+2020-04-01 21:21:48,448 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997937699, 1576997936886]
+2020-04-01 21:21:48,449 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM1 CMSIS id : 1576997936141
+2020-04-01 21:21:48,449 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997940153, 1576997936886]
+2020-04-01 21:21:48,450 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM3 CMSIS id : 1576997936143
+2020-04-01 21:21:48,450 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997940153, 1576997936886]
+2020-04-01 21:21:48,450 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM3 CMSIS id : 1576997936145
+2020-04-01 21:21:48,451 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939571, 1576997936886]
+2020-04-01 21:21:48,467 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM4 CMSIS id : 1576997936147
+2020-04-01 21:21:48,468 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939571, 1576997936886]
+2020-04-01 21:21:48,469 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM4 CMSIS id : 1576997936149
+2020-04-01 21:21:48,469 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939411, 1576997936886]
+2020-04-01 21:21:48,470 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM7 CMSIS id : 1576997936151
+2020-04-01 21:21:48,470 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939411, 1576997936886]
+2020-04-01 21:21:48,471 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM7 CMSIS id : 1576997936153
+2020-04-01 21:21:48,471 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997936972, 1576997936886]
+2020-04-01 21:21:48,476 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM23 CMSIS id : 1576997936155
+2020-04-01 21:21:48,476 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997936972, 1576997936886]
+2020-04-01 21:21:48,477 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM23 CMSIS id : 1576997936157
+2020-04-01 21:21:48,477 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997938913, 1576997936886]
+2020-04-01 21:21:48,477 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM33 CMSIS id : 1576997936159
+2020-04-01 21:21:48,478 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997938913, 1576997936886]
+2020-04-01 21:21:48,478 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM33 CMSIS id : 1576997936161
+2020-04-01 21:21:48,479 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997940197, 1576997936886]
+2020-04-01 21:21:48,496 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM35P CMSIS id : 1576997936163
+2020-04-01 21:21:48,497 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997940197, 1576997936886]
+2020-04-01 21:21:48,497 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCM35P CMSIS id : 1576997936165
+2020-04-01 21:21:48,498 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939787, 1576997936886]
+2020-04-01 21:21:48,499 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC000 CMSIS id : 1576997936167
+2020-04-01 21:21:48,499 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939787, 1576997936886]
+2020-04-01 21:21:48,500 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC000 CMSIS id : 1576997936169
+2020-04-01 21:21:48,500 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939595, 1576997936886]
+2020-04-01 21:21:48,501 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC300 CMSIS id : 1576997936171
+2020-04-01 21:21:48,501 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939595, 1576997936886]
+2020-04-01 21:21:48,502 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMSC300 CMSIS id : 1576997936173
+2020-04-01 21:21:48,502 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997938018, 1576997936886]
+2020-04-01 21:21:48,502 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MBL CMSIS id : 1576997936175
+2020-04-01 21:21:48,503 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997938018, 1576997936886]
+2020-04-01 21:21:48,503 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MBL CMSIS id : 1576997936177
+2020-04-01 21:21:48,517 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997938653, 1576997936886]
+2020-04-01 21:21:48,519 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MML CMSIS id : 1576997936179
+2020-04-01 21:21:48,519 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997938653, 1576997936886]
+2020-04-01 21:21:48,520 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv8MML CMSIS id : 1576997936181
+2020-04-01 21:21:48,533 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997940261, 1576997936886]
+2020-04-01 21:21:48,533 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMv81MML CMSIS id : 1576997936183
+2020-04-01 21:21:48,534 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997937204, 1576997936886]
+2020-04-01 21:21:48,538 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCA5 CMSIS id : 1576997936185
+2020-04-01 21:21:48,547 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939466, 1576997936886]
+2020-04-01 21:21:48,548 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCA7 CMSIS id : 1576997936187
+2020-04-01 21:21:48,555 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939775, 1576997936886]
+2020-04-01 21:21:48,556 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : ARMCA9 CMSIS id : 1576997936189
+2020-04-01 21:21:48,556 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997936872]
+2020-04-01 21:21:48,557 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : OS Tick GTIM id : 1576997936199
+2020-04-01 21:21:48,558 [INFO] DependencyParser:785 - This component is not compatible with the current MCU : [1576997939448, 1576997936955]
+2020-04-01 21:21:48,559 [INFO] ThirdPartyModel:521 - Component with status : MCU_INCOMPATIBLE for condition : RTOS RTX IFX id : 1576997936273
+2020-04-01 21:21:48,801 [INFO] DbMcusJson:90 - JSON generation date=Wed Feb 26 10:53:47 EET 2020 (1582707227)
+2020-04-01 21:21:50,375 [WARN] ModelIntegratedPack:50 - Cannot find a middleware corresponding to integrated pack FreeRTOS
+2020-04-01 21:21:50,567 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/vitlaiy2034/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-01 21:21:50,946 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/home/vitlaiy2034/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 145 ms. number of Sw pack : 16
+2020-04-01 21:21:51,666 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/home/vitlaiy2034/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-04-01 21:21:51,781 [INFO] IntegrityCheckThread:98 - End integrity checks thread
+2020-04-01 21:21:54,771 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2020-04-01 21:21:54,777 [INFO] ApiDb:158 - Load user favorites file /home/vitlaiy2034/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-01 21:21:54,781 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-04-01 21:21:54,782 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2020-04-01 21:21:59,994 [INFO] DbMcusAds:143 - JSON generation date=Thu Mar 12 17:08:29 EET 2020 (1584025709)
+2020-04-01 21:22:00,000 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:22:00,134 [INFO] McuDetailPanel:181 - Set advertising image to /home/vitlaiy2034/STM32Cube/Repository//STM32L4_MCUs_N4239S_big.jpg
+2020-04-01 21:22:02,972 [INFO] ServerAccessManage:348 - Download File mcusAds.json._tmp_
+2020-04-01 21:22:03,029 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-01 21:22:03,966 [INFO] ServerAccessManage:348 - Download File mcusDocs.json._tmp_
+2020-04-01 21:22:04,106 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-01 21:22:05,214 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json._tmp_
+2020-04-01 21:22:13,908 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-01 21:22:14,127 [INFO] ServerAccessManage:348 - Download File boardsDocs.json._tmp_
+2020-04-01 21:22:14,735 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-01 21:22:15,048 [INFO] ServerAccessManage:348 - Download File boards.json._tmp_
+2020-04-01 21:22:15,977 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-01 21:22:16,510 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2020-04-01 21:22:17,264 [INFO] FileExtend:225 - Unzip File : crdb.zip
+2020-04-01 21:22:17,269 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-04-01 21:22:17,355 [INFO] LoadUrlFilesThread:134 - End of LoadUrlFiles Thread
+2020-04-01 21:22:17,384 [INFO] DbMcusAds:143 - JSON generation date=Thu Mar 12 17:08:29 EET 2020 (1584025709)
+2020-04-01 21:22:17,404 [INFO] DbMcusDocs:142 - JSON generation date=Wed Feb 26 10:53:47 EET 2020 (1582707227)
+2020-04-01 21:22:18,320 [INFO] DbMcusDocs:77 - Found 571 MCUs documents
+2020-04-01 21:22:18,322 [INFO] ApiDb:186 - Save user favorites file /home/vitlaiy2034/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-01 21:22:18,323 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-04-01 21:22:18,323 [INFO] DbMcusXml:110 - Load MCU database from /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//mcu/families.xml
+2020-04-01 21:22:20,394 [INFO] DbMcusJson:90 - JSON generation date=Wed Feb 26 10:53:47 EET 2020 (1582707227)
+2020-04-01 21:22:23,596 [INFO] DbMcus:171 - Found 1670 MCUs (1625 are supported by CubeMX, 1625 are visible in CubeMX)
+2020-04-01 21:22:23,596 [INFO] ApiDb:158 - Load user favorites file /home/vitlaiy2034/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-04-01 21:22:23,597 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-04-01 21:22:23,598 [INFO] DbMcus:183 - Set 0 / 0 favorites MCUs
+2020-04-01 21:22:23,806 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-04-01 21:22:24,989 [INFO] DbBoardsDocs:131 - JSON generation date=Wed Feb 26 10:53:47 EET 2020 (1582707227)
+2020-04-01 21:22:25,040 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-04-01 21:22:25,045 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-04-01 21:22:25,053 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-01 21:22:25,074 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-04-01 21:22:25,084 [INFO] DbBoardsPdsc:92 - Found 28 items
+2020-04-01 21:22:25,088 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-04-01 21:22:25,105 [INFO] DbBoardsPdsc:92 - Found 22 items
+2020-04-01 21:22:25,113 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-04-01 21:22:25,135 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-04-01 21:22:25,136 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-04-01 21:22:25,143 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-04-01 21:22:25,146 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-04-01 21:22:25,146 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-04-01 21:22:25,147 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-04-01 21:22:25,339 [INFO] DbBoardsJson:80 - JSON generation date=Tue Feb 11 15:53:55 EET 2020 (1581429235)
+2020-04-01 21:22:25,392 [INFO] DbBoards:120 - Found 145 boards (142 are supported by CubeMX)
+2020-04-01 21:22:25,432 [INFO] DbBoardsDocs:131 - JSON generation date=Wed Feb 26 10:53:47 EET 2020 (1582707227)
+2020-04-01 21:22:25,478 [INFO] DbBoardsDocs:70 - Found 173 boards documents
+2020-04-01 21:22:25,480 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-04-01 21:22:25,481 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-04-01 21:22:25,483 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-04-01 21:22:25,484 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-04-01 21:22:25,485 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-04-01 21:22:25,486 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-04-01 21:22:25,486 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-04-01 21:22:25,486 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-04-01 21:22:25,487 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-04-01 21:22:25,487 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-04-01 21:22:25,488 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-04-01 21:22:25,488 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-04-01 21:22:25,489 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-04-01 21:22:25,490 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-04-01 21:22:25,490 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-04-01 21:22:25,491 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-04-01 21:22:25,493 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-04-01 21:22:25,494 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-04-01 21:22:25,494 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2020-04-01 21:22:25,495 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-04-01 21:22:25,496 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-04-01 21:22:25,497 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-04-01 21:22:25,498 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-04-01 21:22:26,750 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-04-01 21:22:28,173 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-04-01 21:22:28,173 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-04-01 21:22:29,048 [INFO] ApiDb:158 - Load user favorites file /home/vitlaiy2034/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-01 21:22:29,048 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-04-01 21:22:29,049 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-04-01 21:22:29,077 [INFO] DbBoardsDocs:70 - Found 346 boards documents
+2020-04-01 21:22:29,079 [INFO] ApiDb:186 - Save user favorites file /home/vitlaiy2034/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-01 21:22:29,079 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-04-01 21:22:29,094 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-04-01 21:22:29,100 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-04-01 21:22:29,104 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-04-01 21:22:29,120 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-04-01 21:22:29,128 [INFO] DbBoardsPdsc:92 - Found 28 items
+2020-04-01 21:22:29,135 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-04-01 21:22:29,147 [INFO] DbBoardsPdsc:92 - Found 22 items
+2020-04-01 21:22:29,155 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-04-01 21:22:29,169 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-04-01 21:22:29,170 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-04-01 21:22:29,184 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-04-01 21:22:29,192 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-04-01 21:22:29,192 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-04-01 21:22:29,193 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-04-01 21:22:29,295 [INFO] DbBoardsJson:80 - JSON generation date=Tue Feb 11 15:53:55 EET 2020 (1581429235)
+2020-04-01 21:22:29,312 [INFO] DbBoards:120 - Found 145 boards (142 are supported by CubeMX)
+2020-04-01 21:22:29,313 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-04-01 21:22:29,314 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-04-01 21:22:29,315 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-04-01 21:22:29,316 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-04-01 21:22:29,316 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-04-01 21:22:29,317 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-04-01 21:22:29,317 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-04-01 21:22:29,318 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-04-01 21:22:29,318 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-04-01 21:22:29,318 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-04-01 21:22:29,319 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-04-01 21:22:29,319 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-04-01 21:22:29,320 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-04-01 21:22:29,321 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-04-01 21:22:29,321 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-04-01 21:22:29,322 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-04-01 21:22:29,323 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-04-01 21:22:29,324 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-04-01 21:22:29,324 [WARN] DbBoards:130 - board NUCLEO-WB35CE has no document id list !
+2020-04-01 21:22:29,325 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-04-01 21:22:29,325 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-04-01 21:22:29,326 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-04-01 21:22:29,326 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-04-01 21:22:29,749 [ERROR] DbBoards:192 - Image file not found for board STM32H7B3I-DK: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/boards/stm32h7b3i-dk_small.jpg
+2020-04-01 21:22:30,367 [ERROR] DbBoards:192 - Image file not found for board STM32H747I-EVAL: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-04-01 21:22:30,368 [ERROR] DbBoards:192 - Image file not found for board STM32H757I-EVAL: /opt/st/stm32cubeide_1.1.0/../../../home/vitlaiy2034/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.1.0_1935176924_linux_gtk_x86_64/plugins/com.st.stm32cube.common.mx_5.6.0.202002181639//db//plugins/mcufinder/images/boards/stm32h747ieval_small.jpg
+2020-04-01 21:22:31,035 [INFO] ApiDb:158 - Load user favorites file /home/vitlaiy2034/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-04-01 21:22:31,036 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-04-01 21:22:31,036 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-04-01 21:22:31,599 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:22:31,600 [INFO] MultiScanPanel:739 - Refresh data is succesful
+2020-04-01 21:22:31,601 [INFO] McuFilterPanel:249 - Update 0 favorites MCUs
+2020-04-01 21:22:32,558 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:22:32,559 [INFO] BoardDetailPanel:180 - Set advertising image to /home/vitlaiy2034/STM32Cube/Repository//STM32L4_MCUs_N4239S_big.jpg
+2020-04-01 21:22:32,712 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-04-01 21:22:33,606 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /home/vitlaiy2034/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-04-01 21:36:24,172 [INFO] ServerAccessManage:348 - Download File 
+2020-04-01 21:36:24,307 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:36:24,325 [INFO] McuAction:183 - Block Diagram
+2020-04-01 21:36:24,339 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:36:24,343 [INFO] McuAction:183 - Block Diagram
+2020-04-01 21:36:26,342 [INFO] McuAction:47 - Features
+2020-04-01 21:37:43,534 [INFO] ServerAccessManage:348 - Download File 
+2020-04-01 21:37:43,866 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:37:43,901 [INFO] McuAction:183 - Block Diagram
+2020-04-01 21:38:08,529 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-04-01 21:38:08,548 [INFO] McuAction:183 - Block Diagram

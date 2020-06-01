@@ -1,0 +1,15 @@
+!SESSION 2020-04-01 21:20:39.883 -----------------------------------------------
+eclipse.buildId=Version 1.1.0
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=uk_UA
+Command-line arguments:  -data /home/vitlaiy2034/VetalProjects/APCSystem/APCFirmaware -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-04-01 21:21:00.347
+!MESSAGE Log4j initialized with config file /home/vitlaiy2034/VetalProjects/APCSystem/APCFirmaware/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-04-01 21:21:12.296
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-04-01 21:21:12.536
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
