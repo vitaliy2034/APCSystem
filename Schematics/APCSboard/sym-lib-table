@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MAX167X)(type Legacy)(uri ${KIPRJMOD}/MAX167X.lib)(options "")(descr ""))
+  (lib (name TPX)(type Legacy)(uri ${KIPRJMOD}/TPX.lib)(options "")(descr ""))
+)
